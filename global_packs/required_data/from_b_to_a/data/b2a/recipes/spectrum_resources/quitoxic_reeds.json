@@ -1,0 +1,12 @@
+{
+	"type": "botania:petal_apothecary",
+	"ingredients": [
+		{ "item": "spectrum:vegetal" },
+		{ "item": "minecraft:clay" },
+		{ "item": "botania:mana_pearl" },
+		{ "item": "minecraft:amethyst_shard" },
+		{ "item": "minecraft:fermented_spider_eye" }
+	],
+	"output": { "item": "spectrum:quitoxic_reeds" },
+	"reagent": { "item": "minecraft:sugar_cane" }
+}

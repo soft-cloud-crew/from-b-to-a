@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": { "item": "minecraft:barrel" },
+    "L": { "tag": "botania:livingwood_logs" },
+    "T": { "item": "spectrum:topaz_shard" }
+  },
+  "pattern": [
+    "LTL",
+    "BTB",
+    "LTL"
+  ],
+  "result": { "item": "extended_drawers:double_drawer", "count": 2 }
+}

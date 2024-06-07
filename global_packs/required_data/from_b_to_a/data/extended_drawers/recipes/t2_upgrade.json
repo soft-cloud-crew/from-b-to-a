@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+	"category": "misc",
+  "key": {
+    "U": { "item": "extended_drawers:t1_upgrade" },
+    "C": { "item": "spectrum:compacting_chest" }
+  },
+  "pattern": [
+    "UUU",
+    "CCC",
+    "UUU"
+  ],
+  "result": { "item": "extended_drawers:t2_upgrade", "count": 4 }
+}

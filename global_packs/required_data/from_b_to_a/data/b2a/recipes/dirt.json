@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:clay" },
+		{ "item": "minecraft:coarse_dirt" },
+		{ "item": "minecraft:coarse_dirt" },
+		{ "item": "minecraft:coarse_dirt" },
+		{ "item": "minecraft:coarse_dirt" },
+		{ "item": "farmersdelight:rich_soil" },
+		{ "item": "farmersdelight:rich_soil" },
+		{ "item": "farmersdelight:rich_soil" }
+	],
+  "result": { "item": "minecraft:dirt", "count": 9 }
+}

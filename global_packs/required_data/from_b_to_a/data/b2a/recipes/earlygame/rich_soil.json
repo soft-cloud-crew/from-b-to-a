@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{ "item": "minecraft:dirt" },
+		{ "tag": "botania:petals" },
+		{ "item": "minecraft:bone_meal" },
+		{ "item": "minecraft:bone_meal" },
+		{ "item": "minecraft:bone_meal" },
+		{ "tag": "c:raw_meat" },
+		{ "tag": "c:raw_meat" },
+		{ "tag": "c:raw_meat" },
+		{ "tag": "c:raw_meat" }
+	],
+  "result": { "item": "farmersdelight:organic_compost", "count": 1 }
+}

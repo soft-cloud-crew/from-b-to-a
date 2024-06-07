@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "0": {
+      "item": "botania:rune_water"
+    },
+    "1": {
+      "item": "botania:rune_fire"
+    },
+    "2": {
+      "item": "botania:rune_earth"
+    },
+    "3": {
+      "item": "botania:rune_air"
+    },
+    "8": {
+      "item": "botania:rune_mana"
+    },
+    "C": {
+      "item": "spectrum:topaz_storage_block"
+    },
+    "Y": {
+      "item": "spectrum:citrine_storage_block"
+    },
+    "M": {
+      "item": "spectrum:amethyst_storage_block"
+    },
+    "K": {
+      "item": "spectrum:onyx_storage_block"
+    }
+  },
+  "pattern": [
+    "CYM",
+    "0K1",
+    "283"
+  ],
+  "result": {
+    "item": "botania:terra_plate"
+  },
+  "show_notification": true
+}

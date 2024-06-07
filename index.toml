@@ -1,0 +1,645 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/reciperemover.json"
+hash = "3aa92082ecb56d6e818ccab6aa27f57eb680177ef2a4fe3dbcb97491d54f03b7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/advancements/string_mesh.json"
+hash = "ac0c953fba4afc12467c5cffda7d5e7775d6401027478d6aee107029db5c6cef"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/functions/check_worldgen.mcfunction"
+hash = "23b989a13fbce227b189f2ae27da0bada6ab65e9daf2cb462b472f9b5ea9d239"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/functions/reset_random_tick_speed.mcfunction"
+hash = "7219ee72a8a9a067600f5ce0db66f89326043a671dac9fd5a091265606ca3770"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/functions/set_random_tick_speed.mcfunction"
+hash = "3725ab00af3aab4ba60e08383351621aa5a1580bf5fb5057185fe40a1cbad438"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/black_petal.json"
+hash = "7951f5da6eb6fbcc8946ac19e5b901a47223b3b60bbe5a86310cc49009efbe80"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/blue_petal.json"
+hash = "b4a5510ba9b92c72135ce6659d524e11c99d51aefa48bdce7043d7a0cdec8597"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/brown_petal.json"
+hash = "6235aa131175cc4f9c53975958ef0ccd30ac09bcaf4b6ec296a2ca2a3ffbdd27"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/cyan_petal.json"
+hash = "059581ef0cd07d63a0cdf253d6a9ad92bfb5555eedf1d68894b42e913a1dc1c6"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/gray_petal.json"
+hash = "72d9ef23f9e94f90efbc0682c0e20c25a549e84278ad270c8d84ac5d970c4e02"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/green_petal.json"
+hash = "062110ce8c9deba38f462a9bd77704a29b40e0a0eedd24090687b051b1a9cf67"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/light_blue_petal.json"
+hash = "6ca8d1fc518ae59a4237fba84ab5d9bbb0d111d46e24247959db8c6a5b16e5be"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/light_gray_petal.json"
+hash = "cccb23fa3fe4b52030b75ff60a33bf76fb3e0bcf9ee5ce8157a36a9f44f8467f"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/lime_petal.json"
+hash = "9df4c99d8f37ee64120f1594f0f00305cf65d1667f2adfa1b49345cde1764f48"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/magenta_petal.json"
+hash = "6ee964909946ed5c71c942d0eda96c5f3edff8fb7d92c586039b71a41b16f30a"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/orange_petal.json"
+hash = "5433cd2816199d0218da5108a85f0ac78f0294fd11771e4d31a7102665b33976"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/pink_petal.json"
+hash = "d278502e2f0325921221d7b1bfa93ead033d280ce65074ef1baee8d4ccb733b7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/purple_petal.json"
+hash = "1b1120fc1e61820001ac151e51cb7f36915fb527618fdd97541790415e100ee5"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/red_petal.json"
+hash = "c4309c2b585eb8aa739aefc059aa5cd7278ba9badd9c3cf989f9c2fdb31ced28"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/white_petal.json"
+hash = "9b32e69a689a277e184ba58537326a433e0c6dff3f97d18935c72d747ed123b5"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/yellow_petal.json"
+hash = "e036b5b98491b422a966817ba3d587acae8390a52cedf8752a36673a6b7b06c8"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crushing/crushed_andesite.json"
+hash = "5ed9c1a33cadde14f4e9c3558a68330248c51dc3422400b597183b2b8c083ab0"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crushing/crushed_calcite.json"
+hash = "7680f5a5fbd321ae7ffae93d8e96e9331b33208902a104fe023166b35dd3a5d8"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crushing/crushed_diorite.json"
+hash = "3139760bd1fcc5a76e2c81452f2bac5dc63fe706ebadcbe8caa2afcfb4a1dc3d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crushing/crushed_granite.json"
+hash = "e1b78285ef2dbf7e3bf21c65224b188fc6109e74190c67f3316f804c77398c33"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crushing/crushed_netherack.json"
+hash = "6cdaa4180ed53bf855d90ac571ab4bed30ad8b184d6f6604c902c31e8081dc94"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crushing/dust.json"
+hash = "d27395cec0b7697798df37004501c2d1fdd717964ca7db03fbc51fc6dffa0bc7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crushing/silt.json"
+hash = "8b7325c9a3eed7b70676e9860506530ff92f8ee4d8549f8636fb46e10b88762d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/dirt.json"
+hash = "143435b59c4a9a947ad89b0d1ca30ee963228a6139c227ba34f1dfef649e288e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/campfire.json"
+hash = "1886d930c0e44d2ad4188b944ea5e39ce55e1f6898af59cabc8429130af2dca6"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/compost/bamboo.json"
+hash = "42fcf750fd1b6bf6a04605800e907e54f26b97900c935150e6dc05d39d7585fe"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/compost/bundled_bamboo.json"
+hash = "08773a716ca32dc5e1bc97c2dccfcedb6be6ed28702e2390d27935404e9b3bf7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/fel_pumpkin.json"
+hash = "d3035d084bc2cbe86b344dbf87e5a34e06a86704ee404560fa9b6e85beb6c4cf"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/iron_bars.json"
+hash = "84cbbcc6c431dbce5af18d9d1d6911083dac37b5e57c012eca648291a0235e88"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/pumpkin.json"
+hash = "f1f79eccd5f2dbac3b440f281238cb190c80e2005aca9f9d16499671e18349fb"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/rich_soil.json"
+hash = "2d508c29586eac979c47acecbc50c75bca55fffe0f7610b8c40bf3011d82f6b7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/water_bowl.json"
+hash = "2a6dcf4549afdfc7044340082428bf191add81b51b99d2115fd3e3938bab8b88"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/lava_blaze_block.json"
+hash = "575d4175be55b8b6ba11286dfda92d39c6408f5f05f49497663d6f49cbf90403"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/leaking/netherack_blood.json"
+hash = "218eee2ff629b133e12c67ed1515cca3a29a27a094719fae999410bdfa5b5221"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/gemstones/amethyst.json"
+hash = "04792504d1aa40c5fedd307ccfecca5bbae210584671e0f480639d3e25e177b6"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/gemstones/citrine.json"
+hash = "487ae6dbee3b1d6422d618175cf6a57f28f4a1d8729355983db833d3a00a7d4e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/gemstones/shimmerstone.json"
+hash = "ab883930ae3d13b306703f39a716a72fd9192bc18597622b9eb904f7d8bcc054"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/gemstones/topaz.json"
+hash = "e5b18645ce3bc82baf55767702212f8059472fcd7e62a58c47628066f0b72fff"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/misc/gunpowder.json"
+hash = "a52f71678cc5c8e71ad79fe927afd1b13e9c5ed5becc02e86f71ebb3b5175f94"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/ore/diamond.json"
+hash = "d0131f9a3ade5e629981d568e9df59274767d1ffac0e5f677ffc400b75431d03"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/ore/emerald.json"
+hash = "b63b685005153c553ca25a9f34d1ee209fca7147e6db57b6064caf62d6b21770"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/ore/granite_iron.json"
+hash = "80db3cbff13f81f122c1d48494b1b5890ed24515976076d1120ec9a85592e016"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/plants/brown_mushroom.json"
+hash = "9a6c956670e522ac765ee24b9146f051d1311f7aea2c4f0b37d8e0a858195270"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/plants/crimson_seeds.json"
+hash = "8ac992b4f6dbbccd1157ad082b13b07369dd47b11d7a9a424ae58fdd855779f1"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/plants/grass.json"
+hash = "de9d84fe99577055f75fe9d8c7c3365056dbcfaaf65040d3c32e1a2dcbaef96a"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/plants/oak_sappling.json"
+hash = "bf679dcd7794ec070f25f7471f4b0a00067ba4e51e7d2d6919f1fe10a87910aa"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/plants/red_mushroom.json"
+hash = "0c72f59d9f1b522834bcbdfd789aa164add880c11ecdfb4cde5337734664d0a0"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/plants/warped_seeds.json"
+hash = "aee9a0af0527a94d0edcfed1e3ce808b393ec7697769805cfa53df47af0f3fb7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/stone/andesite_peeble.json"
+hash = "a5ec280457e933e0cbbf2477bffb00a40a7dd54f029beabd452cc95013b31697"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/stone/calcite_peeble.json"
+hash = "443fc9d7d6cc5ceba762c0ef80e4cb89aca5841ade883a90e6bc7929c433e400"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/stone/diorite_peeble.json"
+hash = "6f28d02011689c474341491f92a10bb4ada2b407d749bc387c1824f4f7211316"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/stone/granite_peeble.json"
+hash = "afeec1ee7aad8d6cb385077791bf7bb9f4f4036e82102055ea90e7e529ff6616"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/stone/stone_peble.json"
+hash = "c9b8f982a599bea3d275868d5f12926a8f31a102bb9302c7bc2a56e40c1c28aa"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/spectrum_resources/mermaids_gem.json"
+hash = "0e3c7d70a25f44cbdaddbc1a03c3f1a74f62f63dd79f9a0ead2c2c1b7cdfadbe"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/spectrum_resources/quitoxic_reeds.json"
+hash = "bce8e3addf8daccc94b48f4470459bb8d93dd94b364ec4546af2463210d5337d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/stone.json"
+hash = "feeb114f2ed9b3b1157b0167bf6d1f6606a3c3a566d23557bd5e3deeb1e1168c"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/tags/items/small_stones.json"
+hash = "f7ed890d49ab98f5ca311cd530b1621622f8a79b5eee585b0aac25d39e5c41c8"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/apothecary_default.json"
+hash = "d988745246d5c6582efd0f8008f2c82fefc8a54a99b6566ae0694a8859e88be9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/blaze_block.json"
+hash = "e9a4df06f46cee7d7bbe8f841d1316cb2c247041f09f80c7a3bd4ee54330aacc"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/gaia_pylon.json"
+hash = "3257bae26e1981eb0966ee025f15f654109b041e447bab56690431d7f1bc77b9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/lens_normal.json"
+hash = "7e90e39cd28dc85d8791d1fdd54cc248a244286492b2fad71681f5b830a06777"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_spreader.json"
+hash = "cf069d7bcbd7b69a09072b696ac344593209e960fa89f806d54475c93eb29b11"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/terra_plate.json"
+hash = "727dadb9a3cfaa9077677428252050a884bd16de284e45deb663352860810be8"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/tags/blocks/horn_of_the_canopy_breakable.json"
+hash = "b5e6394c2a08820481d68e975c543de5d251e43f75fba9a96e4d3f7c38e440f3"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/carpetskyadditions/structures/spawn_platform.nbt"
+hash = "fd86f7b780a1dff2cea3d8c9e2ebeabe6c1c5e0abdbc5552cd45e3d63620488b"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/access_point.json"
+hash = "4ba850b1bd318f995ba699e1b0f21de6ff2503f89609db3c7c4970d0d19b74be"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/connector.json"
+hash = "8d3f1cf9011ddd220ec4e4bd427c9169c7ee4fd00c5e141db2235ed7335fe9f7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/double_drawer.json"
+hash = "11355bc86110168840a21406a042386cb74697ef9113bd889e6f6677c283b8ab"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/quad_drawer.json"
+hash = "846e1a5d049bf981a6cd5a162e937e76f91864385b21dd5cb19bab01c5302187"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/single_drawer.json"
+hash = "07049252d30ad7efa6c2aa78f09c6b0cb58e59b89da165b9625c5a3c683167c0"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/t1_upgrade.json"
+hash = "d5dfe01f5b2cd2a5782f33fdb52758bd1ec0348d9acf0b805adcc6bad25e8afb"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/t2_upgrade.json"
+hash = "54f56c8c79d368993fe86dba5ceb37a52d8e557dc4705607efc2dc33d4b80fab"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/t3_upgrade.json"
+hash = "f403c62ab443254b2131e2f03b8c47de5ac9d31150ea2403fad7d39fbda3164c"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/t4_upgrade.json"
+hash = "2fd81d34289bce2b57fa0faf148fdb7b50e418afc4de1c42ebbf949e1d8700ed"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/extended_drawers/recipes/upgrade_frame.json"
+hash = "614c88303a51eb6e2cd846e5a45459c9dec5e6aee3f44b0b05f4250c37d8f2f9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/acacia.json"
+hash = "37fafe534c2fbdb71143f4da91eaa947f38f37c5067fa299540b124ee2c4c41a"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/bamboo.json"
+hash = "1872e9f245ad2546a67130db898d7ebd7d892ec0b20df0b89bc99e7ccf9352e3"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/birch.json"
+hash = "8e402afbb44a92be6d386eea93aead44697d77f9d01f1b3bc2285bda10156f3e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/cherry.json"
+hash = "2905deb303183d6c57fbf5fc92dd1fa327a68f0d28452b05aa513793d0b3851b"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/crimson.json"
+hash = "874c10aee90ade6d49946896798e26d812cd4ce411f87df3346b2206be04f6b0"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/dark_oak.json"
+hash = "77682924d760854ea000b150800f4175a28d4f9326dc098d0ab003dc543bc41d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/jungle.json"
+hash = "9cda226d8fec03d445ad4313c61b3ce0c6fb726458356cb801b1dbd1497e30b8"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/mangrove.json"
+hash = "e342e79ebe737a7edbd30faf7454247d523a565ad6b9b4a34ab3d427f27d8c5d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/oak.json"
+hash = "80d205b9414e7adea4a895d293554141da4ac32c279cab67f358d3d6b8687139"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/spruce.json"
+hash = "7d85336748b4729a5194834b2a283ae33c88d91498f1fe88e8b1fe11f218b30b"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/fabricaeexnihilo/recipes/strainer/warped.json"
+hash = "3f276cd4fff07ca2d4d0439186fe3595430bd3b6594bf4053076a82091753e3a"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/minecraft/recipes/anvil.json"
+hash = "2b2956f040d38813ac816500490ef6572c51fcdc9e54d220e154a419b8f779ed"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/minecraft/recipes/beetroot_soup.json"
+hash = "77cba80f53932c024b038b0595e654ac87749ef540ffc257e6c3ea3cd82ccbe4"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/minecraft/tags/functions/load.json"
+hash = "5da058b20a2208058e0077e144042bc543ce55d9c21896ac0a8f52eefbc856c0"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/minecraft/worldgen/world_preset/normal.json"
+hash = "eac9ba31fc1a1900c62b48301aaa5c47c62a50e33776707cb936745da692c192"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/black_sapling.json"
+hash = "3a91a33c372474bb09d4f2eb8bd8afba8f422ddd1bb617eb9a27b74f557c6f8e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/blue_sapling.json"
+hash = "a20bc8acd25e681deee6ceeab016ec5ce743f2cdd3ca0c96a468d0040ec75612"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/brown_sapling.json"
+hash = "70e3c14e1541020064575195b561c6280f4b88a3048b82676362b4f1724a5bd0"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/cyan_sapling.json"
+hash = "77f6b0de1ffc854edb8cc52ecd1746d1aa74a3ac172ed5256a8917dcd0babe78"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/gray_sapling.json"
+hash = "2b784520d37697eaee2624a0c13b388c3a028f342acd5dc529015692183f8536"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/green_sapling.json"
+hash = "34542d24e61ccd64eccee44f67fc479cdc48223b131a07cfcdf4460c330a0752"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/light_blue_sapling.json"
+hash = "24da9eb2b67ae44a5d260e8694ab732e3e16dc327421620888a53fba649176f5"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/light_gray_sapling.json"
+hash = "47374a6eec278b3295b9bc06d5183cff18e5e241c2a68c83264be0c3eb03e728"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/lime_sapling.json"
+hash = "ffce202619c64c6fcfb6b39aa6c9c5d7227e5c461e44c62cce3ece9c40e7c562"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/magenta_sapling.json"
+hash = "5aa3e0c6df139208b48e9eb8d6758aeaa08bcbb038d84913e2e7780cd596133b"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/orange_sapling.json"
+hash = "538606d6d7a660c30b17c78337cb5fbf62898fade7e9c285aa83991fc4d2b89a"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/pink_sapling.json"
+hash = "52fde49b309c55533402758802f752c4c2dbd9d0a583a1fe1e0f391edb72d356"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/purple_sapling.json"
+hash = "5ef2ae04c49e16e4a5f7555f1b1d44ed3b8e75fc65a511da27a4c79b29288284"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/red_sapling.json"
+hash = "be79138a4c6f3d27a4238f7aea6430d02dc58b666390f014af146b2eb344f6fa"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/white_sapling.json"
+hash = "895cf0f444c35f22ac9f342580ec6c0e7b4047509bc59c30077c5f58ea22b926"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/yellow_sapling.json"
+hash = "ab3a2354da42545919d350e2be7aacb094e81086af150c3a21e66b9570b7c0f3"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier3/bottle_of_ruin.json"
+hash = "225d667e32724870f4f933dceb1fb8ff767cfabd78ff51d3879ba23a8e7df409"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/pack.mcmeta"
+hash = "a766721e5c22dcf8d627fcaeb6d33e83a312562c7470b6adac0d4c01a6af5a86"
+
+[[files]]
+file = "global_packs/required_resources/from_b_to_a/assets/extended_drawers/textures/block/access_point.png"
+hash = "309af5e46a8cc92305a6048a5e5df8e834f132b5ed410bd805352a807889496d"
+
+[[files]]
+file = "global_packs/required_resources/from_b_to_a/assets/extended_drawers/textures/block/double_drawer.png"
+hash = "4a3fff96118b7f1ab7d19c72f7872087ce2d7e8744504519e9ae5cd25054dd2a"
+
+[[files]]
+file = "global_packs/required_resources/from_b_to_a/assets/extended_drawers/textures/block/drawer_base.png"
+hash = "27625be7cdee3ddfbc53dd97375c4fc563621bf408ec4f9300f084d9bdf5cbe2"
+
+[[files]]
+file = "global_packs/required_resources/from_b_to_a/assets/extended_drawers/textures/block/drawer_side.png"
+hash = "d403391fb676feeeb270fbbf9d3378eccec36a53de21df416992ac0f8943d63a"
+
+[[files]]
+file = "global_packs/required_resources/from_b_to_a/assets/extended_drawers/textures/block/quad_drawer.png"
+hash = "56a6916ada14df93e2f8c763ea8428ba6a4c319bbdcd6caa18a37f40ffbb5528"
+
+[[files]]
+file = "global_packs/required_resources/from_b_to_a/assets/extended_drawers/textures/block/single_drawer.png"
+hash = "4700ba903ebdd34f864b859982052ed2fdedca83eeebed02b62bf2a8f55cb243"
+
+[[files]]
+file = "global_packs/required_resources/from_b_to_a/pack.mcmeta"
+hash = "b48085d6250fb717b7579e43cc147d368fe733e0fb542d5238ec0395f67701a4"
+
+[[files]]
+file = "ideas"
+hash = "031164cfda252ee9e97343e5277c3cdf36d1bbc2a9b75630723ec731d42f6f6b"
+
+[[files]]
+file = "mods/amethyst-gravity-reattracted.pw.toml"
+hash = "c0d39a4f488517cc69fef590f2c23945cfd284e2c6b5e6a6f9f371b33eaff7ca"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "2b115c22f739c472bc46399a036b63c59fd418e77fca52255058929b3986f2ec"
+metafile = true
+
+[[files]]
+file = "mods/carpet-sky-additions.pw.toml"
+hash = "d4993c8d91829831c86aa8470bf4d23e91ff2a4cda4a1b92bb95fcc1f23e780d"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-system-overhaul.pw.toml"
+hash = "27619d727379ca285e5a03ff1ce2dd1772976c500a6e0629ef349419f8278df6"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
+metafile = true
+
+[[files]]
+file = "mods/fabricae-ex-nihilo.pw.toml"
+hash = "16a21b29a87b3af83265da45a064e683e94d36ceb3912cab528ddd70e6cf3572"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "d0696cb1d78fe49dcafb52a127f5f3acc0dae2d7b7ab37065cdbcf306569cb01"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api-fork.pw.toml"
+hash = "ed4f9111816e20f749d06fe714ca5b0841fa0e884e1761a8df66ac20bd37b8ba"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/reciperemover.pw.toml"
+hash = "e0bbbe2e0808250565c6875b407830e45f14719979c0be3216d480c5a1fd21e6"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "c3e4cce180fa406e5c44bde59b1f2f23ddc970394079768f774fc007b700f156"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "4dcfed0216f0935074ecbe40eae9163ad3ffd33938e40654cd9f686269e2ca62"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true

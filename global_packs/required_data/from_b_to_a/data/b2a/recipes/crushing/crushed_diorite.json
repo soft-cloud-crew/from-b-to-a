@@ -1,0 +1,12 @@
+{
+"type": "spectrum:anvil_crushing",
+"ingredient": {"item": "minecraft:diorite"},
+"crushedItemsPerPointOfDamage": 0.2,
+"experience": 1,
+"result": {
+"item": "fabricaeexnihilo:crushed_diorite",
+"count": 1
+},
+"particleEffectIdentifier": "cloud",
+"soundEventIdentifier": "block.diorite.break"
+}

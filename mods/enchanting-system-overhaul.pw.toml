@@ -1,0 +1,13 @@
+name = "Enchanting System Overhaul"
+filename = "eso-fabric-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CxaV51ez/versions/O1DARgMb/eso-fabric-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "bea5b32a39e72ce2153431665c10745c311b428e"
+
+[update]
+[update.modrinth]
+mod-id = "CxaV51ez"
+version = "O1DARgMb"

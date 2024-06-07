@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "fabricaeexnihilo:sieve",
+  "key": {
+    "L": {
+      "item": "minecraft:birch_log"
+    },
+    "#": {
+      "item": "fabricaeexnihilo:string_mesh"
+    }
+  },
+  "pattern": [
+    "L#L",
+    "# #",
+    "L#L"
+  ],
+  "result": {
+    "count": 2,
+    "item": "fabricaeexnihilo:birch_strainer"
+  }
+}

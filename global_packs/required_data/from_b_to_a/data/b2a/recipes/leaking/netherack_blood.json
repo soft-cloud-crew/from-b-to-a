@@ -1,0 +1,17 @@
+{
+"type": "fabricaeexnihilo:barrel",
+"actions": [
+	{
+		"type": "consume_fluid",
+		"amount": 90,
+		"fluid": "#c:blood"
+	},
+	{
+		"type": "convert_block",
+		"filter": "fabricaeexnihilo:crushed_netherrack",
+		"result": { "Name": "minecraft:netherrack" }
+	}
+],
+"icon": "minecraft:netherrack",
+"trigger": { "type": "tick", "chance": 0.2 }
+}

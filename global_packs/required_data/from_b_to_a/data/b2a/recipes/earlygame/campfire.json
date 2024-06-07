@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "twigs:twig"
+    },
+    "B": {
+      "item": "minecraft:blaze_powder"
+		},
+    "L": {
+      "tag": "botania:livingwood_logs"
+		}
+  },
+  "pattern": [
+    " T ",
+    "TBT",
+    "LLL"
+  ],
+  "result": {
+    "item": "minecraft:campfire"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "has_mesh": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "fabricaeexnihilo:string_mesh"
+            ]
+          }
+        ]
+      }
+    }
+  },
+	"requeriments": [
+		[
+			"has_mesh"
+		]
+	],
+  "rewards": {
+    "function": "b2a:reset_random_tick_speed"
+  }
+}
+

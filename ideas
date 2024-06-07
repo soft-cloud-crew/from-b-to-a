@@ -1,0 +1,24 @@
+add liquid cristal leaking recipes (livingwood to dreamwood, manacristal to alfcristal, etc)
+change witchwater to void tears
+ -with liquid cristal gives deepslate gem ores
+ -cannot be put with water
+ -needs xp, ender air, midnight solution and gaia spirit
+give twigs stones better recipes
+starfield requires stardust
+give recipes for farmers delight 
+amethyst gravity requires onix pedestal
+change bamboo tatch recipe
+3 farmersdelight:rich_soil + 4 minecraft:coarse_dirt + clay = 9 dirt
+change lava recipe
+
+drawer upgrades require:
+  T0: small_rocks and twigs
+  T1: T0 and minecraft:barrel
+  T2: T1 and spectrum:compacting_chest 
+  T3: T2 and spectrum:bottomless_bundle
+  T4: T3 and botania:ender_hand
+
+function of item transfer systems:
+  livingbarrels: main storage
+  pastel network: cheap and easy, mainly for automation
+  corporea network: decorative, mostly for personal use

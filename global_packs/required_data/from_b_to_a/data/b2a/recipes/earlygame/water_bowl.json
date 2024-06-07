@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "P": {
+      "item": "twigs:bamboo_thatch"
+		}
+  },
+  "pattern": [
+    " P ",
+    "PBP",
+    " P "
+  ],
+  "result": {
+    "item": "botania:water_bowl"
+  }
+}

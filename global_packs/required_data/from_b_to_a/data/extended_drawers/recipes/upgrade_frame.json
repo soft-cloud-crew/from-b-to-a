@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+	"category": "misc",
+  "key": {
+    "C": { "item": "minecraft:cobblestone" },
+    "S": { "tag": "b2a:small_stones" },
+    "T": { "item": "twigs:twig" }
+  },
+  "pattern": [
+    "TST",
+    "SCS",
+    "TST"
+  ],
+  "result": { "item": "extended_drawers:upgrade_frame", "count": 4 }
+}

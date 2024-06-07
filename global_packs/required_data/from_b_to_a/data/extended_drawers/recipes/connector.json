@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": { "tag": "botania:livingwood_logs" },
+    "T": { "item": "spectrum:topaz_shard" }
+  },
+  "pattern": [
+    "LTL",
+    "TTT",
+    "LTL"
+  ],
+  "result": { "item": "extended_drawers:connector", "count": 4 }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": { "item": "botania:livingrock" },
+    "C": { "item": "extended_drawers:connector" },
+    "M": { "item": "botania:manasteel_ingot" }
+  },
+  "pattern": [
+    "LML",
+    "MCM",
+    "LML"
+  ],
+  "result": { "item": "extended_drawers:access_point" }
+}

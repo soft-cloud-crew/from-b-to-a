@@ -1,0 +1,12 @@
+{
+"type": "spectrum:anvil_crushing",
+"ingredient": {"item": "fabricaeexnihilo:silt"},
+"crushedItemsPerPointOfDamage": 3,
+"experience": 1,
+"result": {
+"item": "fabricaeexnihilo:dust",
+"count": 1
+},
+"particleEffectIdentifier": "cloud",
+"soundEventIdentifier": "block.sand.break"
+}

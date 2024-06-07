@@ -1,0 +1,12 @@
+{
+"type": "spectrum:anvil_crushing",
+"ingredient": {"item": "minecraft:granite"},
+"crushedItemsPerPointOfDamage": 0.2,
+"experience": 1,
+"result": {
+"item": "fabricaeexnihilo:crushed_granite",
+"count": 1
+},
+"particleEffectIdentifier": "cloud",
+"soundEventIdentifier": "block.stone.break"
+}

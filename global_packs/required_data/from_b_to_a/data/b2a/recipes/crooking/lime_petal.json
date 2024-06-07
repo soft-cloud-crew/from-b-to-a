@@ -1,0 +1,14 @@
+{
+  "type": "fabricaeexnihilo:crook",
+  "block": "spectrum:lime_leaves",
+  "result": {
+    "chances": [
+      0.1
+    ],
+    "stack": {
+      "count": 1,
+      "item": "botania:lime_petal"
+    }
+  }
+}
+

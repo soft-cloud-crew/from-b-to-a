@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "botania:spreader",
+	"key": {
+		"C": {
+			"item": "spectrum:citrine_shard"
+		},
+		"P": {
+			"tag": "botania:petals"
+		},
+		"L": {
+			"tag": "botania:livingwood_logs"
+		}
+	},
+	"pattern": [
+		"LLL",
+		"LCP",
+		"LLL"
+	],
+	"result": {
+	"item": "botania:mana_spreader"
+	}
+}

@@ -1,0 +1,5 @@
+{
+"type":"botania:pure_daisy",
+"input":{"type":"block","block":"minecraft:bamboo"},
+"output":{"name":"minecraft:iron_bars"}
+}
