@@ -265,8 +265,32 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/lens_normal.
 hash = "7e90e39cd28dc85d8791d1fdd54cc248a244286492b2fad71681f5b830a06777"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/mana_diamond.json"
+hash = "4d489d0dd1c59c36c185b16e9d589dd4ff7a1f2d0dd5583783fad61350479f5d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/mana_diamond_block.json"
+hash = "1faa92e95493566fe01a5f9672473bb4b99500997e5cdb99f647679f6ddd0875"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/mana_pearl.json"
+hash = "1171fa363d4b34b3abb3a0cf37260f3fe9c329f6c70866cb9e9dd57b72cb941e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/manasteel.json"
+hash = "960c4646d7bf5bfa646d8abde682f6211cbc12c9b977ca348c58f5d38f63ca5b"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/manasteel_block.json"
+hash = "b8521ee40b02d24e60b19da3fdc054ab7aa9a63483a933031ed0d8b44da7f206"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_spreader.json"
 hash = "cf069d7bcbd7b69a09072b696ac344593209e960fa89f806d54475c93eb29b11"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/sextant.json"
+hash = "a4fc71367386761f93757d4e2fe0677b0df60437ad6c779632c451c86a912fc1"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/terra_plate.json"
@@ -482,7 +506,7 @@ hash = "b48085d6250fb717b7579e43cc147d368fe733e0fb542d5238ec0395f67701a4"
 
 [[files]]
 file = "ideas"
-hash = "031164cfda252ee9e97343e5277c3cdf36d1bbc2a9b75630723ec731d42f6f6b"
+hash = "ab7716fbf93ccdfdf5556ce4b54043316f19e5eb07f7103b9cf4584f50209b1f"
 
 [[files]]
 file = "mods/amethyst-gravity-reattracted.pw.toml"

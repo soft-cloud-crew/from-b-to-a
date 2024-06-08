@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "T":
+		{
+			"item": "botania:livingwood_twig"
+		},
+    "N": 
+		{
+      "tag": "botania:manasteel_nugget"
+    }
+  },
+  "pattern": [
+    " TN",
+    " TT",
+    "NNN"
+  ],
+  "result": {
+    "item": "botania:sextant"
+  },
+  "show_notification": true
+}

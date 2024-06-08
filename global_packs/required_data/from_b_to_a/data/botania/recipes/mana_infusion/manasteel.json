@@ -1,0 +1,6 @@
+{
+	"type": "botania:mana_infusion",
+	"input": { "item": "minecraft:iron_ingot" },
+	"mana": 10000,
+	"output": { "item": "botania:manasteel_ingot" }
+}

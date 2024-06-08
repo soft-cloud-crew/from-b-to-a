@@ -8,8 +8,18 @@ starfield requires stardust
 give recipes for farmers delight 
 amethyst gravity requires onix pedestal
 change bamboo tatch recipe
-3 farmersdelight:rich_soil + 4 minecraft:coarse_dirt + clay = 9 dirt
-change lava recipe
+
+runes:
+  t1 requires two manasteel nuggets and mana dust
+    water requires water bottle, fishes, prismarine shard
+	fire  requires nether brick, gunpowder, blaze powder
+	earth requires stone, clay, mushroom_stem
+	wind  requires scaffolding, feather, glow berries
+  t2 requires two t1 runes, mana pearl
+    spring requires vegetal, crop crate, pink petals
+	summer requires watermelon popsicle, tittation barrel, shroomlight
+	autumm requires quitoxic powder, sweet berry cheesecake, pumpkin
+	winter requires blue ice, sugar stick, tatami
 
 drawer upgrades require:
   T0: small_rocks and twigs
