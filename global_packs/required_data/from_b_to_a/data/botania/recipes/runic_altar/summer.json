@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "farmersdelight:melon_popsicle"
+    },
+    {
+      "item": "spectrum:titration_barrel"
+    },
+    {
+      "item": "minecraft:shroomlight"
+    }
+  ],
+  "mana": 5200,
+  "output": {
+    "item": "botania:rune_summer"
+  }
+}

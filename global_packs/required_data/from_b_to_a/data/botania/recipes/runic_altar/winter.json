@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "botania:rune_air"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "spectrum:sugar_stick"
+    },
+    {
+      "item": "farmersdelight:tatami"
+    }
+  ],
+  "mana": 8000,
+  "output": {
+    "item": "botania:rune_winter"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:manasteel_nugget"
+    },
+    {
+      "item": "botania:manasteel_nugget"
+    },
+    {
+      "tag": "botania:mana_dusts"
+    },
+    {
+      "item": "minecraft:nether_brick"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    }
+  ],
+  "mana": 5200,
+  "output": {
+    "item": "botania:rune_fire"
+  }
+}

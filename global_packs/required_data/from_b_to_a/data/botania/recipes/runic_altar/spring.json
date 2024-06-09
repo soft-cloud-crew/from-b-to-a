@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "spectrum:vegetal"
+    },
+    {
+      "tag": "b2a:crop_packages"
+    },
+    {
+      "item": "minecraft:pink_petals"
+    }
+  ],
+  "mana": 8000,
+  "output": {
+    "item": "botania:rune_spring"
+  }
+}

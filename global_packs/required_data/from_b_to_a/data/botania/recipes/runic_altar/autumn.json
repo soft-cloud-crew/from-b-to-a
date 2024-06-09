@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "ingredients": [
+    {
+      "item": "botania:rune_air"
+    },
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "botania:mana_pearl"
+    },
+    {
+      "item": "spectrum:quitoxic_powder"
+    },
+    {
+      "item": "farmersdelight:sweet_berry_cheesecake"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    }
+  ],
+  "mana": 8000,
+  "output": {
+    "item": "botania:rune_autumn"
+  }
+}

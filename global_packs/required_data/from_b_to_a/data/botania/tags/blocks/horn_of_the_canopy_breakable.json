@@ -1,6 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"#minecraft:wart_blocks"
+		"#minecraft:wart_blocks",
+		"#fabricaeexnihilo:infested_leaves"
 	]
 }
