@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L":
+		{
+			"item": "botania:lens_normal"
+		},
+    "T":
+		{
+			"item": "spectrum:multitool"
+		},
+    "C":
+		{
+			"item": "spectrum:citrine_shard"
+		},
+    "M": 
+		{
+      "tag": "botania:manasteel_ingots"
+    }
+  },
+  "pattern": [
+    " T ",
+    "CLC",
+    " M "
+  ],
+  "result": {
+    "item": "botania:lens_mine"
+  },
+  "show_notification": true
+}

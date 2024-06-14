@@ -8,13 +8,13 @@
 		},
     "S": 
 		{
-      "tag": "botania:manasteel_ingots"
+      "item": "botania:manasteel_nugget"
     }
   },
   "pattern": [
-    " S ",
+    "SSS",
     "SGS",
-    " S "
+    "SSS"
   ],
   "result": {
     "item": "botania:lens_normal"

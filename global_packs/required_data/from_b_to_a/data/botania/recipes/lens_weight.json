@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L":
+		{
+			"item": "botania:lens_normal"
+		},
+    "T":
+		{
+			"item": "spectrum:topaz_storage_block"
+		},
+    "R":
+		{
+			"item": "botania:rune_sloth"
+		},
+    "O":
+		{
+			"item": "spectrum:onyx_shard"
+		},
+    "B": 
+		{
+      "item": "spectrum:bedrock_dust"
+    }
+  },
+  "pattern": [
+    "OBO",
+    "OLO",
+    "TRT"
+  ],
+  "result": {
+    "item": "botania:lens_weight"
+  },
+  "show_notification": true
+}
