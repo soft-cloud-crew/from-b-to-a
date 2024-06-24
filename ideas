@@ -32,3 +32,48 @@ function of item transfer systems:
   livingbarrels: main storage
   pastel network: cheap and easy, mainly for automation
   corporea network: decorative, mostly for personal use
+
+mana conversion:
+  normal:
+    bottle, cookie, diamond, glass, iron, pearl, powder, quartz, string, relay, pasture seeds
+  alchemy:
+    flint -> gunpowder -> redstone -> glowstone_dust -> blaze_powder ->
+	stone -> andesite -> diorite -> granite ->
+	deepslate -> tuff -> calcite ->
+	apple -> sweet_berries -> glow_berries ->
+	terracota -> bricks -> red_sandtone ->
+	cactus -> slime_ball -> pickles ->
+	beetroot_seeds -> melon_seeds -> pumpkin_seeds -> cocoa_beans -> wheat_seeds -> cabbage_seeds -> tomato_seeds ->
+	potato -> carrot -> onion -> 
+	wild_cabbages -> wild_onions -> wild_tomatoes -> wild_carrots -> wild_potatoes -> wild_beetroots -> wild_rice ->
+	cod -> salmon -> tropical_fish -> pufferfish ->
+	allium -> azure -> red_tulip -> orange_tulip -> white_tulip -> pink_tulip -> oxeye_daisy -> cornflower -> lily_of_the_valley -> dandelion -> poppy -> blue_orchid ->
+	sunflower -> lilac -> rose_bush -> peony -> 
+	ochre -> verdant -> pearlescent ->
+	acacia -> dark_oak -> mangrove -> cherry -> oak -> spruce -> birch -> jungle
+	schist -> rhyolite -> forest -> plains -> mountain -> fungal -> swamp -> desert -> taiga -> mesa ->
+	opaline -> roseate -> tangerine -> pebble ->
+  change:
+    writable_book -> nametag
+	snow -> ice
+	leather -> rabbit_hide
+	poisonous_potato -> potato
+	soul_sand -> soul_soil
+	potato -> tiny_potato
+	stone_pebble -> pebble
+  grow: (fading)
+    dandelion -> sunflower
+	poppy -> rose_bush
+	allium -> lilac
+	pink_tulip -> peony
+	chorus_fruit -> chorus_flower
+	cabbage -> wild_cabbages
+	onion -> wild_onions
+	tomato -> wild_tomatoes
+	carrot -> wild_carrots
+	potato -> wild_potatoes
+	beetroot -> wild_beetroots
+	rice_panicle -> wild_rice
+  small: (crying_obsidian)
+    hydroangeas
+	functional_flowers

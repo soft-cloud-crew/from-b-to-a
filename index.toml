@@ -173,6 +173,10 @@ file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/gemstones/
 hash = "e5b18645ce3bc82baf55767702212f8059472fcd7e62a58c47628066f0b72fff"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/misc/blaze_rod.json"
+hash = "0c75083b701e188061169e1b57919569bb724768068a5668f58296482020939c"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/misc/gunpowder.json"
 hash = "a52f71678cc5c8e71ad79fe927afd1b13e9c5ed5becc02e86f71ebb3b5175f94"
 
@@ -265,12 +269,28 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/blaze_block.
 hash = "e9a4df06f46cee7d7bbe8f841d1316cb2c247041f09f80c7a3bd4ee54330aacc"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/conversions/blazeblock_deconstruct.json"
+hash = "2bf86e5c4fc4e07689a13fc2acc2cd1ed33d2a94a027deb6f26120fbb64ca0f7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/fel_pumpkin.json"
+hash = "287b246c5a5a94f16796fa0d288bae4c935a008ef2f38ff2b2b75cad858115c6"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/gaia_pylon.json"
 hash = "3257bae26e1981eb0966ee025f15f654109b041e447bab56690431d7f1bc77b9"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/lens_mine.json"
+hash = "ac4d0dd4dfec60fc3eb3d264ce5d08edc96cd47ee9f1fdcecf8ecc9d0cf8ea53"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/lens_normal.json"
-hash = "7e90e39cd28dc85d8791d1fdd54cc248a244286492b2fad71681f5b830a06777"
+hash = "ab43e378c4c6400ea71844e2e1839501a7f1e166e608c6d58e2c5c8fe0711037"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/lens_weight.json"
+hash = "8e4225f236c633030031076eea7e2431550d8f1a23026e98ae479387c07b4ed1"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/mana_diamond.json"
@@ -462,7 +482,7 @@ hash = "2b2956f040d38813ac816500490ef6572c51fcdc9e54d220e154a419b8f779ed"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/minecraft/recipes/beetroot_soup.json"
-hash = "77cba80f53932c024b038b0595e654ac87749ef540ffc257e6c3ea3cd82ccbe4"
+hash = "0d46fd5c31f6135dbd1d517db52dad3f2395183286107a255c9902f9c7ddb847"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/minecraft/tags/functions/load.json"
