@@ -37,20 +37,20 @@ mana conversion:
   normal:
     bottle, cookie, diamond, glass, iron, pearl, powder, quartz, string, relay, pasture seeds
   alchemy:
-    flint -> gunpowder -> redstone -> glowstone_dust -> blaze_powder ->
-	stone -> andesite -> diorite -> granite ->
-	deepslate -> tuff -> calcite ->
-	apple -> sweet_berries -> glow_berries ->
+    +flint -> gunpowder -> redstone -> glowstone_dust -> blaze_powder ->
+	+stone -> andesite -> diorite -> granite ->
+	+deepslate -> tuff -> calcite ->
+	+apple -> sweet_berries -> glow_berries ->
 	terracota -> bricks -> red_sandtone ->
-	cactus -> slime_ball -> pickles ->
-	beetroot_seeds -> melon_seeds -> pumpkin_seeds -> cocoa_beans -> wheat_seeds -> cabbage_seeds -> tomato_seeds ->
-	potato -> carrot -> onion -> 
+	+cactus -> slime_ball -> pickles ->
+	+beetroot_seeds -> melon_seeds -> pumpkin_seeds -> cocoa_beans -> wheat_seeds -> cabbage_seeds -> tomato_seeds ->
+	+potato -> carrot -> onion -> 
 	wild_cabbages -> wild_onions -> wild_tomatoes -> wild_carrots -> wild_potatoes -> wild_beetroots -> wild_rice ->
-	cod -> salmon -> tropical_fish -> pufferfish ->
-	allium -> azure -> red_tulip -> orange_tulip -> white_tulip -> pink_tulip -> oxeye_daisy -> cornflower -> lily_of_the_valley -> dandelion -> poppy -> blue_orchid ->
-	sunflower -> lilac -> rose_bush -> peony -> 
+	+cod -> salmon -> tropical_fish -> pufferfish ->
+   +allium -> azure -> red_tulip -> orange_tulip -> white_tulip -> pink_tulip -> oxeye_daisy -> cornflower -> lily_of_the_valley -> dandelion -> poppy -> blue_orchid ->
+	+sunflower -> lilac -> rose_bush -> peony -> 
 	ochre -> verdant -> pearlescent ->
-	acacia -> dark_oak -> mangrove -> cherry -> oak -> spruce -> birch -> jungle
+	+acacia -> dark_oak -> mangrove -> cherry -> oak -> spruce -> birch -> jungle
 	schist -> rhyolite -> forest -> plains -> mountain -> fungal -> swamp -> desert -> taiga -> mesa ->
 	opaline -> roseate -> tangerine -> pebble ->
   change:
