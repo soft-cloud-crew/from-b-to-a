@@ -61,6 +61,34 @@ file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/me
 hash = "05032cc944448121bf0539e7bcd823a5463f1399e12301c4c5cd975d7514a1a3"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/beetroot_rice.json"
+hash = "cc83bd65f73253a11f1b79f52cf1edb01a57f74626c0dbc396a0c9c694f4cf3c"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/cabbage_onion.json"
+hash = "14e33137aee7218f1a467c93d4ef4c0ec899c7e0ed1b67eaf6150dcd0b56f1d5"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/carrot_potato.json"
+hash = "b44eefdf4376610e842a1da1921490002014de07ff7757131e3d0c6faa6c89c2"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/onion_tomato.json"
+hash = "259577cac389a4944e46e9e3a6d0b1c7380cc0ac1a2243521902ac14be6dba62"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/potato_beetroot.json"
+hash = "ab5b4de4724877af2ac5ee0d6a0e830b6289410519e5b97a45b900387ff54151"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/rice_cabbage.json"
+hash = "db9410c6718d9e6ef8d1cf87e039fcb0f63c81573bb8df886d38101a218a245a"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/tomato_carrot.json"
+hash = "73c9222a4c8571e2a9f61a56fd1e6ecb34d7df37e61d800aad16ab80ef2973bf"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/black_petal.json"
 hash = "7951f5da6eb6fbcc8946ac19e5b901a47223b3b60bbe5a86310cc49009efbe80"
 

@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:wild_crops_cycle",
+  "input": {
+    "item": "farmersdelight:wild_onions"
+  },
+  "mana": 300,
+  "output": {
+    "item": "farmersdelight:wild_tomatoes"
+  }
+}
