@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/reciperemover.json"
-hash = "3aa92082ecb56d6e818ccab6aa27f57eb680177ef2a4fe3dbcb97491d54f03b7"
+hash = "4c7e21076cfa6f9ac95ea016b5bb0bb537d6342197d6c71435d40308ff3865a4"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/advancements/string_mesh.json"
@@ -738,7 +738,7 @@ hash = "b48085d6250fb717b7579e43cc147d368fe733e0fb542d5238ec0395f67701a4"
 
 [[files]]
 file = "ideas"
-hash = "da0ffe69f9c13a2f517a2dd04b7ca079f093d3db841d43cdd0dd67012182c8cb"
+hash = "b6537a11e2514086079b55aad3415c149e5ae25b2ea1acad9ed706c9b32f44ff"
 
 [[files]]
 file = "mods/amethyst-gravity-reattracted.pw.toml"
