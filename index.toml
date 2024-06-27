@@ -217,32 +217,48 @@ file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/water_
 hash = "2a6dcf4549afdfc7044340082428bf191add81b51b99d2115fd3e3938bab8b88"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/allium_lilac.json"
+hash = "b71f614b3151b63c6cdc4b182a993b3d8ffb1768f7d87795be21ed1934d271e4"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/dandelion_sunflower.json"
+hash = "7a08830132fb3d18aeaaf3d2638c6034c63db2ca06917f6c5aa27854eb0807dd"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/pink_tulip_peony.json"
+hash = "112ebb86690a406caef26b2fa2f238e9171e75de85cd64898c6d8ea67a7f7bf2"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/poppy_rose_bush.json"
+hash = "a5caf65a1a1291077810cc9822e0682ed386c5aef6c6d695460d11f5d5c21c80"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_beetroot.json"
-hash = "a1facd70bf095bc08968712a9635c14f548c3806319897603debad3c62338493"
+hash = "ae906743b8c3a31154bc61db478724fa1d70850903bcb966b8162f7da8773292"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_cabagge.json"
-hash = "25c494011d69069fa5363f761c0f8458a5759b0390ab7ef6e7fc9b0f6b88f291"
+hash = "b06bc21a417811c5f70bf4098fb922546f325b4e790dad683a3c6773451e9964"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_carrots.json"
-hash = "d917cfe9bca88a99a09d1d98eb358fa6b5aa9b7ac7b8e07a54f17a72a2206689"
+hash = "d416ebbf99fd65da29f24567d2555ac31e8cd07aff01241212bf38a5e4a9f973"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_onion.json"
-hash = "0bc5c1a9ffde2899497f3bb5a9b1d30e673bd5fec385ea4739f190cf7b169565"
+hash = "e5b5925fbb865ccc4be9b87efb2bf5ee266d57547341dfdb0cf713677e3713c8"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_potato.json"
-hash = "8385bdb1bfed9a673a85d2b2c2ffc7371c0341407429e5fcadcee3664a6650e1"
+hash = "de2e7c0384f56bd26ea50643a2dda414c89c36c7876dd8a4a0a4ab90f0ffba21"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_rice.json"
-hash = "423c5636c35f8c88274e395679fdb79f6c33f16d22fc594e8eea33427cb0e5e6"
+hash = "f5cff18fdbe1a3804b043125f86ce54ee7e6d38b499fc0a48a8ab354f6580eb2"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_tomato.json"
-hash = "bf9e0e6b1196aa33f3eb9757de10e4187a041e365b5ff8292083d9af3151fa8f"
+hash = "7e206871bd909df4cf5f60a0ddef0281f5aad1518b7d1361e051ba84c9a8d7b0"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/lava_blaze_block.json"
@@ -389,6 +405,14 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/lens_weight.
 hash = "8e4225f236c633030031076eea7e2431550d8f1a23026e98ae479387c07b4ed1"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/agricarnation_chibi.json"
+hash = "0ff2676939c132f4b4d4ad38b50b2d1d825a0637b7d50870900985383fb0bd2e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/bellethorn_chibi.json"
+hash = "632c634f2b9983dd21e2d9b67b264b2dee20eee66dc59550c5026f5401e5ca2d"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/blaze_powder_flint.json"
 hash = "5ae6c3c5fb2eeac2151547c0ba658f6dff2600ff8c0a73aaae110b5de881a1f1"
 
@@ -397,12 +421,24 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "4a1262b7b0701243c7ca039ef3cc289233a6396e4fc2173803db5390a342ee8c"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/bubbell_chibi.json"
+hash = "c5f64ad971bfb605a5501e656e36ee142054e5fd92359984f7d0ead2798f6f21"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/cabbage_tomato_seeds.json"
 hash = "450a7604e2b4ad6e0d16f1673a5be629ec0fc113830b2fb468a4a530a5a60e2d"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/carrot_to_beetroot_seeds.json"
 hash = "9f3bf96a3b88edb5e3546f4d6fea8aae1a6ff9fe380eedf52163c32c35a410eb"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/chorus_fruit_to_flower.json"
+hash = "e0cc76c8d179a4cd6d50884ae10419e99fc1cc62da0c462018667fe818c466c8"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/clayconia_chibi.json"
+hash = "0d9f6dbbcc641f549d6a1772a93f1007c40df7b8393dab09035c151d6f1b819d"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/ender_pearl_from_ghast_tear.json"
@@ -417,8 +453,20 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "f7786531bd874ea07149bafc87b92d8814d80435a0fd52a48c62efc0595be134"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/hopperhock.json"
+hash = "a25e82b3d075f944c9427acee4d776f9ee642bc050926c9caecd67e2004923fe"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/hydroangeas_motif.json"
+hash = "709cea270b2c56b6bba739969ea045cab086f9c2753cd674fbc2f8df23b75c2c"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/ice.json"
 hash = "988b2f1ac8dd116c35f74405c9d758c692c6e7a62a6853a01e5836952a3e351e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/jiyuulia_chibi.json"
+hash = "2a933ba9c02593d046f86574793739d305a150f469fd35a2dc0f07905b0f9e2a"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/lily_of_the_valley_to_sunflower.json"
@@ -445,6 +493,10 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "b8521ee40b02d24e60b19da3fdc054ab7aa9a63483a933031ed0d8b44da7f206"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/marimorphosis_chibi.json"
+hash = "3c04aa6a03796f1418c8953df2499b3a5b66386c7c7517e4cd662f164330ddcd"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/onion_potato.json"
 hash = "9bdce36237562f7b1357e9e2a52032db48598c042598e9e5716e1e5f1c27c69a"
 
@@ -465,8 +517,16 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "b8836e7b15a7079a61e34ddaca86d24108bdaa1acc4aad5b9fa19f7952dab8d5"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/solegnolia_chibi.json"
+hash = "f86c59a1c71094201f4235d1fff7c864aae72a4d3c5867bb00b8b6b324e395d1"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/soul_soil.json"
 hash = "8add5cda17a0aec0fc10835388e2b71cc3630d3477d03e8917e69e14d73f8d3e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/tangleberrie_chibi.json"
+hash = "a5abfce83a9beec0992db7e99c1ac84160f04e04e1d986fbc5bc85aecd248052"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/tiny_potato.json"
@@ -762,7 +822,7 @@ hash = "b48085d6250fb717b7579e43cc147d368fe733e0fb542d5238ec0395f67701a4"
 
 [[files]]
 file = "ideas"
-hash = "b6537a11e2514086079b55aad3415c149e5ae25b2ea1acad9ed706c9b32f44ff"
+hash = "74cd127d976aa7027891e385cee9b36ca5abd43c13c54df9e293371cd88facbe"
 
 [[files]]
 file = "mods/amethyst-gravity-reattracted.pw.toml"

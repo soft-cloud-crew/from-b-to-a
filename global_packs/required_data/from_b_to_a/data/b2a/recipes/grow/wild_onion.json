@@ -2,7 +2,7 @@
   "type": "botania:mana_infusion",
   "catalyst": {
     "type": "block",
-    "block": "botania:alchemy_catalyst"
+    "block": "spectrum:fading"
   },
   "group": "botania:wild_crops",
   "input": {

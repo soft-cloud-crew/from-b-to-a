@@ -6,10 +6,10 @@
   },
   "group": "botania:wild_crops",
   "input": {
-    "item": "minecraft:beetroot"
+    "item": "minecraft:dandelion"
   },
-  "mana": 3000,
+  "mana": 5000,
   "output": {
-    "item": "farmersdelight:wild_beetroots"
+    "item": "minecraft:sunflower"
   }
 }

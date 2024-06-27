@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "minecraft:crying_obsidian"
+  },
+  "input": {
+    "item": "botania:hydroangeas"
+  },
+  "mana": 2500,
+  "output": {
+    "item": "botania:hydroangeas_motif"
+  }
+}
