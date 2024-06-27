@@ -217,6 +217,34 @@ file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/earlygame/water_
 hash = "2a6dcf4549afdfc7044340082428bf191add81b51b99d2115fd3e3938bab8b88"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_beetroot.json"
+hash = "a1facd70bf095bc08968712a9635c14f548c3806319897603debad3c62338493"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_cabagge.json"
+hash = "25c494011d69069fa5363f761c0f8458a5759b0390ab7ef6e7fc9b0f6b88f291"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_carrots.json"
+hash = "d917cfe9bca88a99a09d1d98eb358fa6b5aa9b7ac7b8e07a54f17a72a2206689"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_onion.json"
+hash = "0bc5c1a9ffde2899497f3bb5a9b1d30e673bd5fec385ea4739f190cf7b169565"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_potato.json"
+hash = "8385bdb1bfed9a673a85d2b2c2ffc7371c0341407429e5fcadcee3664a6650e1"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_rice.json"
+hash = "423c5636c35f8c88274e395679fdb79f6c33f16d22fc594e8eea33427cb0e5e6"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/grow/wild_tomato.json"
+hash = "bf9e0e6b1196aa33f3eb9757de10e4187a041e365b5ff8292083d9af3151fa8f"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/lava_blaze_block.json"
 hash = "575d4175be55b8b6ba11286dfda92d39c6408f5f05f49497663d6f49cbf90403"
 

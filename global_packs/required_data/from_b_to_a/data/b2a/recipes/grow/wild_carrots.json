@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:wild_crops",
+  "input": {
+    "item": "minecraft:carrot"
+  },
+  "mana": 3000,
+  "output": {
+    "item": "farmersdelight:wild_carrots"
+  }
+}
