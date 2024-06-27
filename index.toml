@@ -393,6 +393,10 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "5ae6c3c5fb2eeac2151547c0ba658f6dff2600ff8c0a73aaae110b5de881a1f1"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/book_to_nametag.json"
+hash = "4a1262b7b0701243c7ca039ef3cc289233a6396e4fc2173803db5390a342ee8c"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/cabbage_tomato_seeds.json"
 hash = "450a7604e2b4ad6e0d16f1673a5be629ec0fc113830b2fb468a4a530a5a60e2d"
 
@@ -401,12 +405,20 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "9f3bf96a3b88edb5e3546f4d6fea8aae1a6ff9fe380eedf52163c32c35a410eb"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/ender_pearl_from_ghast_tear.json"
+hash = "a1d0f5934e8c7cabbba30118e9dfb376067306a396f444f6963d848f08cbe11c"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/glowstone_dust_to_redstone.json"
 hash = "f0a5d49d4b223309c94d8799e5a81ab76b651e8075f6417ef292efa16abc1d8d"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/gunpowder_to_flint.json"
 hash = "f7786531bd874ea07149bafc87b92d8814d80435a0fd52a48c62efc0595be134"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/ice.json"
+hash = "988b2f1ac8dd116c35f74405c9d758c692c6e7a62a6853a01e5836952a3e351e"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/lily_of_the_valley_to_sunflower.json"
@@ -445,8 +457,20 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "0011ff699ecd2e620aef04214daa3b692d5e4df88a330b13782a29c14455dfcf"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/potato_unpoison.json"
+hash = "bcddfcf5e70d83d9db07fc24ef725a2eb36c445782c2c69ed07694dde58e7b03"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/slime_to_cactus.json"
 hash = "b8836e7b15a7079a61e34ddaca86d24108bdaa1acc4aad5b9fa19f7952dab8d5"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/soul_soil.json"
+hash = "8add5cda17a0aec0fc10835388e2b71cc3630d3477d03e8917e69e14d73f8d3e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/tiny_potato.json"
+hash = "44f0cfc04f4d2c9e6dc199e44f618e971d18814c1983a31b15643d9f4a62d1c8"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/tomato_beetroot_seeds.json"

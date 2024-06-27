@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "input": {
+    "item": "minecraft:eye_of_ender"
+  },
+  "mana": 28000,
+  "output": {
+    "item": "minecraft:ghast_tear"
+  }
+}
