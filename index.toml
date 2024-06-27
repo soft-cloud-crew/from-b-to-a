@@ -21,6 +21,46 @@ file = "global_packs/required_data/from_b_to_a/data/b2a/functions/set_random_tic
 hash = "3725ab00af3aab4ba60e08383351621aa5a1580bf5fb5057185fe40a1cbad438"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/desert_taiga.json"
+hash = "628c86a7ab4950060ae406bfb091b7a03534a31c66d89653fcd3410cd98a8794"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/forest_plains.json"
+hash = "80d80e5721bc1c92c61e89ee49330fedde337e0f76dbdb0c883b5b7b5ae208dd"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/fungal_swamp.json"
+hash = "ff7e30b92a49071347b210e02a2332e3d3ce4ab073ea09a3f25de29a1710735b"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/mesa_schist.json"
+hash = "af5757b525d9e4afc57436e12478c2000a9c564040e3ef8c693b6c98ac79d5f9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/mountain_fungal.json"
+hash = "1dd4ddce057f2df4f411fc66166c1d1aecdfc68c6cfbb531806e5d085151e14d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/plains_mountain.json"
+hash = "2970c9082b31619c71cfebcb121b6c05c6c6ad72243f4063f36138b8bbc278ea"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/rhyolite_forest.json"
+hash = "722442c98d3e605a542ecde29e23f01e48dedf86a0acc8b23ea30a54443c4f75"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/schist_rhyolite.json"
+hash = "e9bb97d8b1b0de68fb87b86aa7ff7bd5663744d3ae135ef387260acc0179122b"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/swamp_desert.json"
+hash = "89842c33211e9d2b066312243d4a61c7bae14eeac30c002a7c9ab56c6d75c456"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/taiga_mesa.json"
+hash = "05032cc944448121bf0539e7bcd823a5463f1399e12301c4c5cd975d7514a1a3"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/crooking/black_petal.json"
 hash = "7951f5da6eb6fbcc8946ac19e5b901a47223b3b60bbe5a86310cc49009efbe80"
 
@@ -293,6 +333,30 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/lens_weight.
 hash = "8e4225f236c633030031076eea7e2431550d8f1a23026e98ae479387c07b4ed1"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/blaze_powder_flint.json"
+hash = "5ae6c3c5fb2eeac2151547c0ba658f6dff2600ff8c0a73aaae110b5de881a1f1"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/cabbage_tomato_seeds.json"
+hash = "450a7604e2b4ad6e0d16f1673a5be629ec0fc113830b2fb468a4a530a5a60e2d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/carrot_to_beetroot_seeds.json"
+hash = "9f3bf96a3b88edb5e3546f4d6fea8aae1a6ff9fe380eedf52163c32c35a410eb"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/glowstone_dust_to_redstone.json"
+hash = "f0a5d49d4b223309c94d8799e5a81ab76b651e8075f6417ef292efa16abc1d8d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/gunpowder_to_flint.json"
+hash = "f7786531bd874ea07149bafc87b92d8814d80435a0fd52a48c62efc0595be134"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/lily_of_the_valley_to_sunflower.json"
+hash = "553bd8d8bfebce1a80a4887edf2c4331b0f9dddb470386169e816b81beaf3b69"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/mana_diamond.json"
 hash = "4d489d0dd1c59c36c185b16e9d589dd4ff7a1f2d0dd5583783fad61350479f5d"
 
@@ -311,6 +375,30 @@ hash = "960c4646d7bf5bfa646d8abde682f6211cbc12c9b977ca348c58f5d38f63ca5b"
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/manasteel_block.json"
 hash = "b8521ee40b02d24e60b19da3fdc054ab7aa9a63483a933031ed0d8b44da7f206"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/onion_potato.json"
+hash = "9bdce36237562f7b1357e9e2a52032db48598c042598e9e5716e1e5f1c27c69a"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/peony_to_dandelion.json"
+hash = "b8b01347b0db03b0faf41651b7f3b84c8109a848cea18f32a551d329d55e4cc2"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/pickle_to_cactus.json"
+hash = "0011ff699ecd2e620aef04214daa3b692d5e4df88a330b13782a29c14455dfcf"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/slime_to_cactus.json"
+hash = "b8836e7b15a7079a61e34ddaca86d24108bdaa1acc4aad5b9fa19f7952dab8d5"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/tomato_beetroot_seeds.json"
+hash = "f871bd74d193e7ff4038fd12fde7ab45b68e51b2a4c5d83c5d306ecf0a50f7ea"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/wheat_seeds_to_potato.json"
+hash = "eabed84fbe3349b74093ee42f56956fd4c1152d4bc8c713b761a5ee140418568"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_spreader.json"
@@ -594,7 +682,7 @@ hash = "b48085d6250fb717b7579e43cc147d368fe733e0fb542d5238ec0395f67701a4"
 
 [[files]]
 file = "ideas"
-hash = "ab7716fbf93ccdfdf5556ce4b54043316f19e5eb07f7103b9cf4584f50209b1f"
+hash = "da0ffe69f9c13a2f517a2dd04b7ca079f093d3db841d43cdd0dd67012182c8cb"
 
 [[files]]
 file = "mods/amethyst-gravity-reattracted.pw.toml"

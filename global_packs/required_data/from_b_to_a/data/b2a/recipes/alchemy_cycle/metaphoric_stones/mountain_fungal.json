@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:metaforic_cycle",
+  "input": {
+    "item": "botania:metamorphic_mountain_stone"
+  },
+  "mana": 300,
+  "output": {
+    "item": "botania:metamorphic_fungal_stone"
+  }
+}

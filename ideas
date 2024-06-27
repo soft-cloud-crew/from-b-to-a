@@ -61,6 +61,7 @@ mana conversion:
 	soul_sand -> soul_soil
 	potato -> tiny_potato
 	stone_pebble -> pebble
+	eye_of_ender -> ghast_tear
   grow: (fading)
     dandelion -> sunflower
 	poppy -> rose_bush
@@ -77,3 +78,13 @@ mana conversion:
   small: (crying_obsidian)
     hydroangeas
 	functional_flowers
+	quartz_deconstruct
+  remove:
+    blaze_rod -> nether_wart
+	stone_bricks -> chiseled
+	dirt -> coarse_dirt
+	cobblestone -> sand
+	wool_deconstruct
+	clay_deconstruct
+	glowstone_deconstruct
+	every duplication
