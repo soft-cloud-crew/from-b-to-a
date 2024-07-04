@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:conjuration_catalyst"
+  },
+  "input": {
+    "item": "fabricaeexnihilo:stone_pebble"
+  },
+  "mana": 2500,
+  "output": {
+    "count": 1,
+    "item": "twigs:pebble"
+  }
+}

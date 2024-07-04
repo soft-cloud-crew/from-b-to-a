@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:red_stones",
+  "input": {
+    "item": "minecraft:red_sandstone"
+  },
+  "mana": 500,
+  "output": {
+    "item": "minecraft:bricks"
+  }
+}
