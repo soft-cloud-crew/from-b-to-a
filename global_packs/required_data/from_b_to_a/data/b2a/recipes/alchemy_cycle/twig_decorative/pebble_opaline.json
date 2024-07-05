@@ -4,11 +4,12 @@
     "type": "block",
     "block": "botania:alchemy_catalyst"
   },
+  "group": "botania:twigs_cycle",
   "input": {
-    "item": "minecraft:ender_eye"
+    "item": "twigs:pebble"
   },
-  "mana": 28000,
+  "mana": 300,
   "output": {
-    "item": "minecraft:ghast_tear"
+    "item": "twigs:opaline_seashell"
   }
 }

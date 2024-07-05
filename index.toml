@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/reciperemover.json"
-hash = "4c7e21076cfa6f9ac95ea016b5bb0bb537d6342197d6c71435d40308ff3865a4"
+hash = "cc5e0e7091c2c752fa3dc9a46ed1df11d1328baa64ab03714c44fa08d14f3bb8"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/advancements/string_mesh.json"
@@ -59,6 +59,22 @@ hash = "89842c33211e9d2b066312243d4a61c7bae14eeac30c002a7c9ab56c6d75c456"
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/metaphoric_stones/taiga_mesa.json"
 hash = "05032cc944448121bf0539e7bcd823a5463f1399e12301c4c5cd975d7514a1a3"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/twig_decorative/opaline_roseate.json"
+hash = "b887571f02bcc58dd33dcb90cec3c67cbfce117ed02bea6b30538c895dacf0e8"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/twig_decorative/pebble_opaline.json"
+hash = "d7076538628dc1445d0de27f4048bc965d540a7e1974a4a532ce011016be7744"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/twig_decorative/roseate_tangerine.json"
+hash = "5c4ee4bd280410cef55568127ae2d0fde1a8c830f473c750ecd26abd54cb3257"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/twig_decorative/tangerine_pebble.json"
+hash = "ce2e904964218d6347f5c9815596da120e40c1185dfc1339658973f8d1d5c9d8"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/alchemy_cycle/wild_crops/beetroot_rice.json"
@@ -385,6 +401,10 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/blaze_block.
 hash = "e9a4df06f46cee7d7bbe8f841d1316cb2c247041f09f80c7a3bd4ee54330aacc"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/conjuration_catalyst.json"
+hash = "6e449f7552ca3e2bbf3285b451c0d435888c9a2626b2f3276fd9a8b89a443732"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/conversions/blazeblock_deconstruct.json"
 hash = "2bf86e5c4fc4e07689a13fc2acc2cd1ed33d2a94a027deb6f26120fbb64ca0f7"
 
@@ -425,7 +445,7 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "98087be8cc09ed10fa4a31ee93b049be300ece63eb72675656747174613ad4d4"
 
 [[files]]
-file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/book_to_nametag.json"
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/book_to_name_tag.json"
 hash = "4a1262b7b0701243c7ca039ef3cc289233a6396e4fc2173803db5390a342ee8c"
 
 [[files]]
@@ -462,7 +482,7 @@ hash = "02ae1f99d18a3dd7ac040af9dc271e39efc5b8004a17dfed2c3987cbecf35df0"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/ender_pearl_from_ghast_tear.json"
-hash = "a1d0f5934e8c7cabbba30118e9dfb376067306a396f444f6963d848f08cbe11c"
+hash = "4594820022dcb58f20861a3c74362043b92569751683e1be88658984b47ad0f9"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/glowstone_dust_to_redstone.json"
@@ -473,7 +493,7 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "f7786531bd874ea07149bafc87b92d8814d80435a0fd52a48c62efc0595be134"
 
 [[files]]
-file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/hopperhock.json"
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/hopperhock_chibi.json"
 hash = "a25e82b3d075f944c9427acee4d776f9ee642bc050926c9caecd67e2004923fe"
 
 [[files]]
@@ -545,12 +565,20 @@ file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusio
 hash = "ae1dda01685cf17ce99930aa458ef8bccf9e7ce2bc46c6259606d11ccc15d615"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/rannuncarpus_chibi.json"
+hash = "ae914b78924628a88916d74d6a60f2a095ac7199342e8b5060256d0c52f7a9a1"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/red_quartz_deconstruct.json"
 hash = "da8a0cc3ab387437b51b16c8c1d334e025496b4d8ff18f9cd61deee10b265e8f"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/red_sandstone_bricks.json"
 hash = "1aaa4bd29e14b7f1a51e59c71e3051fed8e35292dba7b54931b374127a2a62e4"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/rotten_flesh_to_leather.json"
+hash = "6de9a97f867d09fa50294bdf47929cac8fdaac9d1860c2c50ad6b101bb17b5cd"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/botania/recipes/mana_infusion/slime_to_cactus.json"
@@ -818,7 +846,7 @@ hash = "52fde49b309c55533402758802f752c4c2dbd9d0a583a1fe1e0f391edb72d356"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/purple_sapling.json"
-hash = "5ef2ae04c49e16e4a5f7555f1b1d44ed3b8e75fc65a511da27a4c79b29288284"
+hash = "b49efe83d8b4f89eaf524184c2c5a482cfc7fc2835cdffb7e42f8b3c7819a449"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/spectrum/recipes/pedestal/tier1/saplings/red_sapling.json"
@@ -870,7 +898,7 @@ hash = "b48085d6250fb717b7579e43cc147d368fe733e0fb542d5238ec0395f67701a4"
 
 [[files]]
 file = "ideas"
-hash = "a990b35836f240a3314edeabba6c9dcca025e12cc72cde9ffeec74a88a75f43b"
+hash = "0e04258c8f43f2d71d849379eaa6dd14c84b01c4f4433d3c2479a9d3add44981"
 
 [[files]]
 file = "mods/amethyst-gravity-reattracted.pw.toml"

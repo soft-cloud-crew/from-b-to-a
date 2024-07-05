@@ -52,15 +52,15 @@ mana conversion:
 	+ochre -> verdant -> pearlescent ->
 	+acacia -> dark_oak -> mangrove -> cherry -> oak -> spruce -> birch -> jungle
 	+schist -> rhyolite -> forest -> plains -> mountain -> fungal -> swamp -> desert -> taiga -> mesa ->
-	opaline -> roseate -> tangerine -> pebble ->
+	+opaline -> roseate -> tangerine -> pebble ->
   change:
     +writable_book -> nametag
 	+snow -> ice
-	leather -> rabbit_hide
+	+leather -> rabbit_hide
 	+poisonous_potato -> potato
     +soul_sand -> soul_soil
 	+potato -> tiny_potato
-	stone_pebble -> pebble
+	+stone_pebble -> pebble
 	+eye_of_ender -> ghast_tear
   grow: (fading)
     +dandelion -> sunflower

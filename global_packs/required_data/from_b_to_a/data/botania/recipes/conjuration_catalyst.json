@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "botania:mana_pearl"
+    },
+    "T": {
+      "item": "spectrum:topaz_shard"
+    },
+    "A": {
+      "item": "botania:alchemy_catalyst"
+    },
+    "S": {
+      "item": "botania:livingrock"
+    }
+  },
+  "pattern": [
+    "SPS",
+    "TAT",
+    "SPS"
+  ],
+  "result": {
+    "item": "botania:conjuration_catalyst"
+  },
+  "show_notification": true
+}

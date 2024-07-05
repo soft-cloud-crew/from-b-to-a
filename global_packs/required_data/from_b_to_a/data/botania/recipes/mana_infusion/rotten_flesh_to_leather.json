@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:conjuration_catalyst"
+  },
+  "input": {
+    "item": "minecraft:leather"
+  },
+  "mana": 600,
+  "output": {
+    "item": "minecraft:rabbit_hide"
+  }
+}
