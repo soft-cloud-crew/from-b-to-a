@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-quilt-8.13.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/4Jamol2R/wthit-quilt-8.13.2.jar"
+hash-format = "sha1"
+hash = "b3b0105ac3dd6d8774fde26b48a1bf40ff6ce4cb"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "4Jamol2R"
