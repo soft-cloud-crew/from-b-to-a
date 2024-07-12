@@ -1,0 +1,11 @@
+{
+  "type": "fabricaeexnihilo:crucible",
+  "amount": 30,
+  "fluid": {
+    "type": "fabricaeexnihilo:blood"
+  },
+  "input": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "requiresFireproofCrucible": true
+}

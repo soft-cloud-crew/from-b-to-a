@@ -285,6 +285,10 @@ file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/leaking/netherac
 hash = "218eee2ff629b133e12c67ed1515cca3a29a27a094719fae999410bdfa5b5221"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/netherrack.json"
+hash = "51a31fc6ee9055596fd903804e58c7cbd7f0f77f3b189324b98a6136f34288fa"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/pebble_exnihilo_twigs.json"
 hash = "0d1ceaf995818c6628dfe6a5ea66f11f5fca1c4e13f8371204c0e7cd2180fdcc"
 
@@ -323,6 +327,10 @@ hash = "b63b685005153c553ca25a9f34d1ee209fca7147e6db57b6064caf62d6b21770"
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/ore/granite_iron.json"
 hash = "80db3cbff13f81f122c1d48494b1b5890ed24515976076d1120ec9a85592e016"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/ore/netherite.json"
+hash = "9c11e77ac9ee3b931c245a2ecc5c57b87821b1794ab547954d91ca6ba3b91265"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/sieve/plants/brown_mushroom.json"
@@ -375,6 +383,10 @@ hash = "0e3c7d70a25f44cbdaddbc1a03c3f1a74f62f63dd79f9a0ead2c2c1b7cdfadbe"
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/spectrum_resources/quitoxic_reeds.json"
 hash = "bce8e3addf8daccc94b48f4470459bb8d93dd94b364ec4546af2463210d5337d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/spectrum_resources/stratine_ore.json"
+hash = "88fcdbb996cd3f9c4313f61f6f59cf7caf5eed9ab0a118c54c95879f398e15d1"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b2a/recipes/stone.json"

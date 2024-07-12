@@ -1,0 +1,14 @@
+{
+	"type": "spectrum:fusion_shrine",
+	"time": 480,
+	"experience": 2.0,
+	"fluid": "fabricaeexnihilo:blood",
+	"ingredients": [
+		{ "item": "minecraft:nether_bricks"    },
+		{ "item": "minecraft:red_nether_bricks"},
+		{ "item": "minecraft:netherite_scrap"  },
+		{ "item": "minecraft:gold_block"       },
+		{ "item": "botania:blaze_block"        }
+	],
+	"result": { "item": "spectrum:stratine_ore", "count": 16 }
+}
