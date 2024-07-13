@@ -909,10 +909,6 @@ file = "global_packs/required_resources/from_b_to_a/pack.mcmeta"
 hash = "b48085d6250fb717b7579e43cc147d368fe733e0fb542d5238ec0395f67701a4"
 
 [[files]]
-file = "ideas"
-hash = "0e04258c8f43f2d71d849379eaa6dd14c84b01c4f4433d3c2479a9d3add44981"
-
-[[files]]
 file = "mods/amethyst-gravity-reattracted.pw.toml"
 hash = "c0d39a4f488517cc69fef590f2c23945cfd284e2c6b5e6a6f9f371b33eaff7ca"
 metafile = true
@@ -920,6 +916,11 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
